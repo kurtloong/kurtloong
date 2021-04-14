@@ -12,20 +12,14 @@
 </a>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p>
 
-<div id="original" style="display: none">
-## 我
-- 大家好，我是西西弗，一个三流后端开发工程师，懂Java，也会一点Go
-- 人生的大部分时间都在编码，也爱阅读与电影。
-- 存在主义
-- 认为游戏是一门艺术
-- 认识到工作只不过是CRUD，但是仍坚信自己的代码能对世界有积极的影响
-## 博客
-- 主要是随笔与学习记录
-- 作者水平有限，如果有错误或者遗漏的地方，欢迎交流指正
+大家好，我是龙腾，一个三流后端开发工程师，懂Java，也会一点Go
+- 🔭 人生的大部分时间都在编码，也爱阅读与电影。
+- 🌱 存在主义
+- 👯 认为游戏是一门艺术
+- 💬 认识到工作只不过是CRUD，但是仍坚信自己的代码能对世界有积极的影响
+- ⚡ 我的博客 https://www.sisyphus.net.cn/
 
-</div>
 ### 👀 Active Repo
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kurtloong&repo=acreath-starter-threadpool)](https://github.com/kurtloong/acreath-starter-threadpool)
