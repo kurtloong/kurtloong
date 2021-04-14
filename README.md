@@ -32,16 +32,18 @@
 
 
 ### 🏆 Github Status
-<a href="">
+<!-- thropy -->
+<a href="https://arshiamidos.github.io">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=kurtloong&column=7&theme=onedark"/>
     </p>
 </a>
-<!-- My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos -->
-<a align="center" href="">
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kurtloong&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurtloong&layout=compact&theme=tokyonight" alt="languages" height="165">
-</p>
+
+<!-- status codes -->
+<a align="center" href="https://arshiamidos.github.io">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kurtloong&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurtloong&layout=compact&theme=tokyonight" alt="languages" height="165">
+    </p>
+</a>
 
 
