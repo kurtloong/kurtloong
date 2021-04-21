@@ -8,12 +8,12 @@
 
 <!-- first row -->
 <p align="center">
-<a href="https://biezhi.me"><img src="https://komarev.com/ghpvc/?username=kurtloong">&nbsp;&nbsp;<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dkurtloong&longCache=true">
+<a href="https://www.sisyphus.net.cn"><img src="https://komarev.com/ghpvc/?username=kurtloong">&nbsp;&nbsp;<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dkurtloong&longCache=true">
 </a>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-大家好，我是龙腾，一个三流后端开发工程师，懂Java，也会一点Go
+大家好，我是龙腾，一个三流后端开发工程师
 - 🔭 人生的大部分时间都在编码，也爱阅读与电影。
 - 🌱 存在主义
 - 👯 认为游戏是一门艺术
