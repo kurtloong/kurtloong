@@ -15,9 +15,8 @@
 
 - ⚡ 我的博客 https://www.sisyphus.net.cn/
 
-### 👀 Active Repo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kurtloong&repo=acreath-starter-threadpool)](https://github.com/kurtloong/acreath-starter-threadpool)
-
-
-
+<!-- status codes -->
+<a align="center" href="https://arshiamidos.github.io">
+    <img src="https://github-readme-stats.vercel.app/api?username=kurtloong&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
+</a>
