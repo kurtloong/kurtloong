@@ -14,8 +14,8 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - ⚡ 我的博客 https://www.sisyphus.net.cn/
-
-
+- ⚡ 正在开发一个基于Arthas的研发中台 如果你也想加入请联系我。
+- ⚡ 正在积极寻找新工作中
 <!-- status codes -->
 <a align="center" href="https://arshiamidos.github.io">
     <img src="https://github-readme-stats.vercel.app/api?username=kurtloong&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
